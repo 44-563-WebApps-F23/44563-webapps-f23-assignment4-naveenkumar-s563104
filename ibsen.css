@@ -16,7 +16,7 @@ inside <style> elements in HTML*/
 }
 a:hover{
     background-color: gold;
-    color: aquamarine;
+    color: rgb(41, 30, 239);
 }
 .nora{
     color: chartreuse;
