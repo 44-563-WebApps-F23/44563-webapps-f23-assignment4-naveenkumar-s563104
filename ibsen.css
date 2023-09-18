@@ -1,0 +1,30 @@
+h1{ color: blueviolet;}
+/* Comments in CSS can also be
+inside <style> elements in HTML*/ 
+/*p {background-color: rgb(131, 191, 254);
+font-family: Times;
+border: 2px solid blue;
+padding: 5px;
+}*/
+.name{font-family: 'Courier New', Courier, monospace;
+    color: #000000;
+}
+.speech{font-family: 'Courier New', Courier, monospace;
+    color: #000000;
+}
+.direction{font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    background-color: rgb(135, 227, 250);
+
+}
+a:hover{
+    background-color: gold;
+    color: aquamarine;
+}
+.nora{
+    color: chartreuse;
+}
+.helmer{
+        color: hotpink;
+}
+
