@@ -1,11 +1,6 @@
 h1{ color: rgb(0, 0, 0);}
 /* Comments in CSS can also be
 inside <style> elements in HTML*/ 
-/*p {background-color: rgb(131, 191, 254);
-font-family: Times;
-border: 2px solid blue;
-padding: 5px;
-}*/
 .name{font-family: 'Courier New', Courier, monospace;
     color: #000000;
 }
