@@ -1,4 +1,6 @@
-h1{ color: rgb(0, 0, 0);}
+h1{ color: rgb(18, 19, 20);
+text-shadow: 2px 2px 2px rgb(0, 255, 98);
+}
 /* Comments in CSS can also be
 inside <style> elements in HTML*/ 
 .name{font-family: 'Courier New', Courier, monospace;
@@ -21,6 +23,7 @@ a:hover{
 }
 .helmer{
         color: hotpink;
+        text-shadow: 2px 2px 2px rgb(0, 255, 98)
 }
 table{border: solid 6px;}
 td,th{border: solid 3px;
