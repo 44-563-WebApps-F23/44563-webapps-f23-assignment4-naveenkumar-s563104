@@ -22,4 +22,10 @@ a:hover{
 .helmer{
         color: hotpink;
 }
-
+table{border: solid 6px;}
+td,th{border: solid 3px;
+text-align: left;
+padding: 10px;}
+tr:nth-last-child(even){
+background-color: blanchedalmond;
+}
