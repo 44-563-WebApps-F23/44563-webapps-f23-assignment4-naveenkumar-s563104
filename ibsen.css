@@ -18,10 +18,11 @@ a:hover{
     background-color: gold;
     color: rgb(41, 30, 239);
 }
-.nora{
+.nora:hover{
     color: chartreuse;
+    text-shadow: 2px 2px 2px rgb(0, 255, 98)
 }
-.helmer{
+.helmer:hover{
         color: hotpink;
         text-shadow: 2px 2px 2px rgb(0, 255, 98)
 }
